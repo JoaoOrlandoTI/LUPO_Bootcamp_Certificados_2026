@@ -1,5 +1,6 @@
-# LUPO_Bootcamp_Certificados_2026
-Bootcamp LUPO Certificados
+# Bootcamp LUPO Certificados
 
-## 
-<img src= >
+
+## ✔️ Certificados Lupo - Primeiros Passos com Inteligência Artificial
+### ✔️  
+<img src=" " width="456">
