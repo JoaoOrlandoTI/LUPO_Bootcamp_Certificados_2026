@@ -19,7 +19,7 @@
 <img src=" " width="456"> 
 
 ### ✔️ LUPO DIO Introdução à Engenharia de Prompts
-<img src="https://private-user-images.githubusercontent.com/267536401/570893618-a92759ee-a910-4d48-86c1-f5ee6cf2b439.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ3MjUxMzMsIm5iZiI6MTc3NDcyNDgzMywicGF0aCI6Ii8yNjc1MzY0MDEvNTcwODkzNjE4LWE5Mjc1OWVlLWE5MTAtNGQ0OC04NmMxLWY1ZWU2Y2YyYjQzOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyOFQxOTA3MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNWJlZThlZTI5N2YyMmRiOWQ1NjMxYjIxMjNkZjkyYzUzMWYwM2UyN2ZhN2YxNGQ0MTk0ZDM4ZjY5ZDZhZDk2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.K0d3bh5zRVdmUURBMsW82TCP_iJ0ZzKl-RmiXukU3HA" width="456"> 
+<img src=" " width="456"> 
 
 ### ✔️ LUPO DIO Escrevendo Prompts Eficazes
 <img src=" " width="456"> 
@@ -36,5 +36,4 @@
 ### ✔️ LUPO DIO 
 <img src=" " width="456"> 
 
-Sobre Contas e Ferramentas do Github
 
