@@ -12,7 +12,7 @@
 ### ✔️ LUPO DIO Transformando Sua Rotina com IA: Tenha o Seu Próprio Assistente de Metas
 <img src=" " width="456"> 
 
-### ✔️ LUPO DIO 
+### ✔️ XXXXXX LUPO DIO Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
 <img src=" " width="456"> 
 
 ### ✔️ LUPO DIO 
