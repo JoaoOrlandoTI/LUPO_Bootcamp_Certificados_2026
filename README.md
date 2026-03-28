@@ -12,4 +12,29 @@
 ### ✔️ LUPO DIO Transformando Sua Rotina com IA: Tenha o Seu Próprio Assistente de Metas
 <img src=" " width="456"> 
 
+### ✔️ LUPO DIO 
+<img src=" " width="456"> 
+
+### ✔️ LUPO DIO 
+<img src=" " width="456"> 
+
+### ✔️ LUPO DIO 
+<img src=" " width="456"> 
+
+### ✔️ LUPO DIO 
+<img src=" " width="456"> 
+
+### ✔️ LUPO DIO 
+<img src=" " width="456"> 
+
+### ✔️ LUPO DIO 
+<img src=" " width="456"> 
+
+### ✔️ LUPO DIO 
+<img src=" " width="456"> 
+
+### ✔️ LUPO DIO 
+<img src=" " width="456"> 
+
+
 
