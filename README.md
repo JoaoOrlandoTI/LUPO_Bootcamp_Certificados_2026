@@ -12,19 +12,19 @@
 ### ✔️ LUPO DIO Transformando Sua Rotina com IA: Tenha o Seu Próprio Assistente de Metas
 <img src=" " width="456"> 
 
-### ✔️ XXXXXX LUPO DIO Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
+### ✔️ XXXXXXX LUPO DIO Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
 <img src=" " width="456"> 
 
-### ✔️ LUPO DIO 
+### ✔️ LUPO DIO Aplicações e Impacto da IA no Mundo Atual
 <img src=" " width="456"> 
 
-### ✔️ LUPO DIO 
+### ✔️ LUPO DIO Introdução à Engenharia de Prompts
 <img src=" " width="456"> 
 
-### ✔️ LUPO DIO 
+### ✔️ LUPO DIO Escrevendo Prompts Eficazes
 <img src=" " width="456"> 
 
-### ✔️ LUPO DIO 
+### ✔️ XXXXXXX LUPO DIO Inclusão Financeira: como a IA Pode te Ajudar a Organizar Suas Finanças Pessoais
 <img src=" " width="456"> 
 
 ### ✔️ LUPO DIO 
