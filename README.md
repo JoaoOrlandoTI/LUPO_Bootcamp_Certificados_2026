@@ -1,6 +1,6 @@
 # Bootcamp LUPO Certificados
 
-### ✔️ Certificados Lupo - Primeiros Passos com Inteligência Artificial
+### ✔️ Certificados Lupo - 1. Primeiros Passos com Inteligência Artificial
 <img src="https://private-user-images.githubusercontent.com/267536401/567414683-14cbed2d-99aa-42bf-9276-b95a669bccef.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ3MjE0ODMsIm5iZiI6MTc3NDcyMTE4MywicGF0aCI6Ii8yNjc1MzY0MDEvNTY3NDE0NjgzLTE0Y2JlZDJkLTk5YWEtNDJiZi05Mjc2LWI5NWE2NjliY2NlZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyOFQxODA2MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wOGRmMDFhYzMxODE2MTU3NTQ1MDg5NjFiYTMzM2I4N2E2OGVjZWE2ZDNhYjJjNTE5NjNjMjEyYjJjZjc1ZGJmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.a4ku6fjflUnh5ETGxs9e-C9Tg1sRwNkRzfB-BCe7VeE" width="456"> 
 
 ### ✔️ LUPO DIO A Era da IA Machine Learning LLMs IA Generativa e Agentes
