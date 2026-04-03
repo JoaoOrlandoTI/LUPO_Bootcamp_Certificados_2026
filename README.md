@@ -12,7 +12,7 @@
 ### ✔️ LUPO DIO 4. Transformando Sua Rotina com IA: Tenha o Seu Próprio Assistente de Metas
 <img src="https://private-user-images.githubusercontent.com/267536401/570893525-261a773d-51ee-4b1c-8a50-04fb4f8c5901.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ3MjUwNDIsIm5iZiI6MTc3NDcyNDc0MiwicGF0aCI6Ii8yNjc1MzY0MDEvNTcwODkzNTI1LTI2MWE3NzNkLTUxZWUtNGIxYy04YTUwLTA0ZmI0ZjhjNTkwMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMyOFQxOTA1NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MjVjODc3ZWExZGM5YWI3YmY2MzU4MzE2NmVmNjQxOWMyYTJkOGUzMWIzMzk2NmFmMDE3MDk3YWU1OWQwZWE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.yagZl5FIDv34bKPQ9qp_WNdMzQ6BjN22f9JSdQU_5lk" width="456"> 
 
-### ✔️ XXXXXXX LUPO DIO Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
+### ✔️ XXXXXXX LUPO DIO 5. Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
 <img src=" " width="456"> 
 
 ### ✔️ LUPO DIO Aplicações e Impacto da IA no Mundo Atual
