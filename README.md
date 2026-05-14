@@ -1,7 +1,5 @@
 # Bootcamp LUPO Certificados
 1
-2
-
 
 
 ## ✔️ Certificados Lupo - 1. Primeiros Passos com Inteligência Artificial 
