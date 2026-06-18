@@ -10,9 +10,6 @@
 ### ✔️ LUPO DIO 
 <img src=" " width="456"> 
 
-### ✔️ LUPO DIO 
-<img src=" " width="456"> 
-
 # Bootcamp LUPO Certificados
 
 ## ✔️ Certificados Lupo - 1. Primeiros Passos com Inteligência Artificial 
