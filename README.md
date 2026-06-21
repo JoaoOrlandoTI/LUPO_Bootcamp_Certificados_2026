@@ -2,8 +2,6 @@
 1
 2
 4
-5
-5
 
 # Bootcamp LUPO Certificados
 
